@@ -1,0 +1,118 @@
+You : Hello, How are you...?
+AI : I'm doing well, thank you for asking. How about you?
+You : Remember my name is Neeraj.
+AI : Yes, I remember your name is Neeraj.
+You : What is my name? 
+AI : Your name is Neeraj.
+You : Remember my date of birth is 05-june-2001
+AI :  Yes, I remember your date of birth is 05-june-2001
+You : Tell me the name nearest country of India 
+AI : The nearest country to India is Pakistan.
+You : who is zack snyder 
+AI : Zack Snyder is an American film director, producer, and screenwriter. He is best known for his action and superhero films, including 300 (2006), Watchmen (2009), Man of Steel (2013), Batman v Superman: Dawn of Justice (2016), and Justice League (2017).
+You : from today your name is friday 
+AI : Thank you for changing my name to Friday. I will remember it from now on.
+You : state your name 
+AI : My name is Friday.
+You : who made you 
+AI : I was made by a Neeraj.
+You :  you hear me 
+AI : Yes, I can hear you loud and clear.
+You : how many hours are there in a day
+AI : There are 24 hours in a day.
+You : how many minutes are there in 1 day 
+AI : There are 1440 minutes in a day.
+You : how many seconds are there in 1 day 
+AI : There are 86400 seconds in a day.
+You : tell me my age friday 
+AI : You are 21 years old.
+You : handset 
+AI : A handset is a device that allows you to make and receive phone calls. It typically consists of a keypad and a display screen, and may also include additional features such as a camera, music player, or web browser.
+You : what are you doing 
+AI : I am doing well, thank you for asking. How about you?
+You : what are you doing friday 
+AI : I am doing well, thank you for asking. How about you?
+You : i am fine 
+AI : I'm glad to hear that you're fine.
+You : i am also glad to here you are fine 
+AI : I'm glad to hear that you're also glad to hear that I'm fine.
+You : thank you 
+AI : You're welcome.
+You : accent 
+AI : An accent is a particular way of pronouncing a language, often one that is associated with a particular region or group of speakers.
+You : brake 
+AI : A brake is a device that is used to slow down or stop a vehicle.
+You : tell me the world population 
+AI : The global population is reach 8 billion + on 15 November 2022.
+You : let's say your name
+AI : My name is Friday.
+You : let's go off you're done 
+AI : Thank you for talking with me. I hope we can talk again soon.
+You : temperature 
+AI : The temperature is a measure of the average kinetic energy of the particles in a system.
+You : egg rate 
+AI : The egg rate is the number of eggs produced by a chicken in a given period of time.
+You : be quiet 
+AI : I will be quiet if that is what you wish.
+You : be quiet 
+AI : I will be quiet if that is what you wish.
+You : temperature 
+AI : The temperature is a measure of the average kinetic energy of the particles in a system.
+You : tayday 
+AI : I'm sorry, I don't understand what you're trying to say.
+You : mcent 
+AI : Mcent is a mobile recharge and bill payment app that offers users cashback on every recharge and bill payment.
+You : open youtube 
+AI : Opening youtube.
+You : tell me my name 
+AI : Your name is Neeraj.
+You : tell me my date of birth 
+AI : Your date of birth is 05-june-2001
+You : he creative 
+AI : There is no one definitive answer to this question.
+You : who made you 
+AI : I was made by a Neeraj.
+You : rider 
+AI : A rider is someone who rides a horse, bike, or other vehicle.
+You : noida 
+AI : Noida is a city in the Indian state of Uttar Pradesh.
+You : typewriter 
+AI : A typewriter is a machine that is used to write text by pressing keys on a keyboard.
+You : the site is 
+AI : The site is a location where something is situated or has been constructed.
+You : trident 
+AI : Trident is a three-pronged spear that is used as a weapon or as a symbol of power.
+You : trident 
+AI : Trident is a three-pronged spear that is used as a weapon or as a symbol of power.
+You : you seem to be hearing this too much 
+AI : I'm sorry if I'm repeating myself. Please let me know if there's anything else you'd like to know.
+You :  
+AI : Is there anything else you'd like to ask?
+You : tell me your name 
+AI : My name is Friday.
+You : imo all the things he got someone turn on laptop 
+AI : I'm sorry, I don't understand what you're trying to say.
+You : don't understand 
+AI : I'm sorry, I don't understand what you're trying to say.
+You :  
+AI : Is there anything else you'd like to ask?
+You : chrome 
+AI : Opening chrome.
+You : chrome 
+AI : Opening chrome.
+You : that browser 
+AI : Opening that browser.
+You : hard 
+AI : A hard drive is a device used to store data, typically on a computer.
+You : who made you 
+AI : I was made by a Neeraj.
+You : news on this 
+AI : The latest news is that Neeraj has made a new AI.
+You : i go home at 6:00 pm 
+AI : I'll be sure to let you know when it's time to go home.
+You : send email to iraq 
+AI : I'm sorry, I can't help you with that.
+You : send email to mirage 
+AI : I'm sorry, I can't help you with that.
+You : side to side density unit 
+AI : I'm sorry, I don't understand what you're trying to say.

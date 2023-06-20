@@ -1,0 +1,36 @@
+Question : Calculate the average speed of a car travelling from A to B at 50m/s and from B to A at 70m/s.
+Answer : The average speed of the car is 60m/s.
+Question : If a bus is approaching a bus stop, what will be its acceleration? 
+Answer : The bus will accelerate as it approaches the bus stop.
+Question : Calculate the minimum length of the runway, if a jet plane makes a run for 40 s before taking off, and also it starts from rest with an acceleration of 5m/s2. 
+Answer : The minimum length of the runway is 200m.
+Question : Inertia is related to which of the following laws of motion? 
+Answer : Inertia is related to the law of motion that states that an object in motion will stay in motion unless acted upon by an outside force.
+Question : what is the capital of india 
+Answer : The capital of India is New Delhi.
+Question : what is your name? 
+Answer : My name is Friday.
+Question : population of this world
+Answer : The global population is reach 8 billion + on 15 November 2022.
+Question : and jarvis how are you 
+Answer : I'm fine, thank you.
+Question : what is my name 
+Answer : Your name is Neeraj.
+Question : alina how are you 
+Answer : I'm fine, thank you.
+Question : how are you alina 
+Answer : I'm fine, thank you.
+Question : what is your name? 
+Answer : My name is Friday.
+Question : what is your name? 
+Answer : My name is Friday.
+Question : what is 
+Answer : My name is Friday.
+Question : what is the distance between india and pakistan 
+Answer : The distance between India and Pakistan is about 1,452 km.
+Question : what is the distance between dewas in indore 
+Answer : The distance between Dewas and Indore is about 39.9 km.
+Question : how much is the distance from indore to dewas? 
+Answer : The distance from Indore to Dewas is about 39.9 km.
+Question : how much is the distance from indore to dewas? 
+Answer : The distance from Indore to Dewas is about 39.9 km.

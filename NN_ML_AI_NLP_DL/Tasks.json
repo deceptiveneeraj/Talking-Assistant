@@ -1,0 +1,760 @@
+ {
+  "intents":[
+    {
+      "tag": "hello",
+      "patterns": ["hello","hi","hey"
+      ],
+      "responses": ["Hello Sir","Hello Sir, How Are You",
+        "Hey i was really waiting for your presence",
+        "Hello Sir Nice to meet you"
+      ]
+    },
+    {
+      "tag": "bye",
+      "patterns": ["see you later","goodbye","bye","good night","sleep","stop","not now","break"
+      ],
+      "responses": ["Good Bye! Sir","Bye Bye! Sir",
+        "See You Later, Sir",
+        "Thanks for using me , have a good day...",
+        "Sir, Good Bye."
+      ]
+    },
+    {
+      "tag": "HAALCHAL",
+      "patterns": ["how are you","are you fine","fine"
+      ],
+      "responses": ["I am fine, Sir", "I am fine, how are you sir",
+        "Fine, Sir!"
+      ]
+    },
+    {
+      "tag": "identity",
+      "patterns": ["tell me your name","what is your name","your name "
+      ],
+      "responses": ["My Name is Friday"
+      ]
+    },
+    {
+      "tag": "personal",
+      "patterns": ["tell me about your self","tell me about you","who are you","what are you"
+      ],
+      "responses": ["I am Friday, A Personal Virtual A.I. Assistant, I Am the Fifth Version Of Era. And Best Before All Assistant"
+      ]
+    },
+    {
+      "tag": "make",
+      "patterns": ["who invent you","who made you","who make you","who invented you","tell you the name of the inventor"
+        ,"tell me the name of the one who made you"
+      ],
+      "responses": ["I was made by Neeraj in 2023 january"
+      ]
+    },
+    {
+      "tag": "dewas to indore distance",
+      "patterns": ["distance between indore to dewas","distance between dewas to indore"
+      ],
+      "responses": ["The Distance is 39.9 kilometer and approx one hour reach with the N.H. 52 Road."
+      ]
+    },
+    {
+      "tag": "First law of motion",
+      "patterns": ["Tell Me Newton First Law of motion","First law of motion","Newton first law of motion"
+      ],
+      "responses": ["Newton first law states that, a body at rest or uniform motion will continue to be at rest or uniform motion until and unless a net external force acts on it."
+      ]
+    },
+    {
+      "tag": "Second law of motion",
+      "patterns": ["Tell Me Newton Second Law of motion","Second law of motion","Newton second law of motion"
+      ],
+      "responses": ["The second law of motion states that, the force acting on the body is equal to the product of its mass and acceleration."
+      ]
+    },
+    {
+      "tag": "Third law of motion",
+      "patterns": ["Tell Me Newton Third Law of motion","Third law of motion","Newton third law of motion"
+      ],
+      "responses": ["Newton third law states that, there is an equal and opposite reaction for every action"
+      ]
+    },
+    {
+      "tag": "law of conservation of energy",
+      "patterns": ["law of conservation of energy","conservation of energy","conservation of energy law"
+      ],
+      "responses": ["The law of conservation of energy states that, energy can neither be created nor destroyed."
+      ]
+    },
+    {
+      "tag": "definition of scalar quantity",
+      "patterns": ["definition of scalar quantity","tell me the definition of scalar quantity",
+        "definition of scalar quantity","scalar quantity"
+      ],
+      "responses": ["A scalar quantity is defined as the physical quantity with only magnitude and no direction. Examples are Mass, Speed, Distance, Time, Volume, Density and Temperature."
+      ]
+    },
+    {
+      "tag": "definition of vector quantity",
+      "patterns": ["definition of vector quantity","tell me the definition of vector quantity",
+        "definition of vector quantity","vector quantity"
+      ],
+      "responses": ["A vector quantity is defined as the physical quantity that has both directions as well as magnitude. Examples are Linear momentum, Acceleration, Displacement, Momentum, Angular Velocity, Force, Electric field and Polarization"
+      ]
+    },
+    {
+      "tag": "mass",
+      "patterns": ["definition of mass","mass definition","mass"
+      ],
+      "responses": ["The amount of matter present in any object or body is called mass. Represented by M.And Mass is equal to, volume into density. And the S.I. unit of mass is  kilogram."
+      ]
+    },
+    {
+      "tag": "weight",
+      "patterns": ["definition of weight","weight definition","weight",
+        "definition of wait", "wait definition","wait"
+      ],
+      "responses": ["Weight is defined as the amount of force acting on the mass of an object because of acceleration due to gravity. Represented by W. And Weight is equal to, mass into acceleration due to gravity. The S.I. unit of weight is Newton."
+      ]
+    },
+    {
+      "tag": "Speed",
+      "patterns": ["speed","define speed",""
+      ],
+      "responses": ["Speed is the rate of change of distance. It is Scalar Quantity. Speed equals to distance upon time. Speed is measured in meter per second"
+      ]
+    },
+    {
+      "tag": "Velocity",
+      "patterns": ["velocity","define velocity",""
+      ],
+      "responses": ["Velocity is the rate of change of displacement. It is Vector Quantity. Velocity equals to displacement upon time. Velocity is measured in meter per second"
+      ]
+    },
+    {
+      "tag": "distance",
+      "patterns": ["define distance"
+      ],
+      "responses": ["The complete length of the path between any two points is called distance. Distance is a scalar quantity as it only depends upon the magnitude and not the direction. Distance equals to speed into time. S.l. unit of distance is meter."
+      ]
+    },
+    {
+      "tag": "displacement",
+      "patterns": ["define displacement","",""
+      ],
+      "responses": ["Displacement is the direct length between any two points when measured along the minimum path between them. Displacement is a vector quantity as it depends upon both magnitude and direction. Displacement equals to velocity into time. S.I. unit of displacement is meter."
+      ]
+    },
+    {
+      "tag": "time",
+      "patterns": ["time","",""
+      ],
+      "responses": ["The measured or measurable period during which an action, process, or condition exists. AND its S.I. unit is second."
+      ]
+    },
+    {
+      "tag": "volume",
+      "patterns": ["define volume","",""
+      ],
+      "responses": ["A volume is simply defined as the amount of space occupied by any three-dimensional solid. These solids can be a cube, a cuboid, a cone, a cylinder or a sphere. Volume of a solid is measured in cubic units."
+      ]
+    },
+    {
+      "tag": "density",
+      "patterns": ["density","",""
+      ],
+      "responses": ["Density, volumetric mass density or specific mass is defined as the, substances mass per unit of volume. The symbol most often used for density is rho. Density equals to mass per unit volume. Though the S.I. unit of density is kilogram per meter cube. And its reciprocal is specific volume."
+      ]
+    },
+    {
+      "tag": "temperature",
+      "patterns": ["temperature","",""
+      ],
+      "responses": ["Temperature is the measure of hotness or coldness of a body measured using Celsius, Kelvin, and Fahrenheit scales.The change in temperature is based on the amount of heat released or absorbed. The S.I. unit of temperature is Kelvin."
+      ]
+    },
+    {
+      "tag": "linear momentum",
+      "patterns": ["linear momentum","",""
+      ],
+      "responses": ["Linear momentum is the vector quantity and defined as the product of the mass of an object, m, and its velocity, v. The units of linear momentum are kilogram meter per second."
+      ]
+    },
+    {
+      "tag": "acceleration",
+      "patterns": ["acceleration","",""
+      ],
+      "responses": ["The rate of change of velocity with respect to time. The S.I. unit of acceleration is meter per second square."
+      ]
+    },
+    {
+      "tag": "momentum",
+      "patterns": ["momentum","",""
+      ],
+      "responses": ["The ability to keep increasing or developing the force that makes something move faster and faster. Momentum equals to mass into velocity. S.I. Unit is Kilogram meter per second."
+      ]
+    },
+    {
+      "tag": "angular velocity",
+      "patterns": ["angular velocity","",""
+      ],
+      "responses": ["Angular velocity is the vector measure of the rotation rate, which refers to how fast an object rotates or revolves relative to another point. Angular velocity is represented by the Greek letter omega (w, sometimes Q). It is measured in angle per unit time; hence, the S.I. unit of angular velocity is radians per second."
+      ]
+    },
+    {
+      "tag": "force",
+      "patterns": ["force","",""
+      ],
+      "responses": ["Push or pull of an object is considered a force. And the push or pull on an object with mass causes it to change its velocity.\nForce is an external agent capable of changing a body's state of rest or motion. It has a magnitude and a direction. The direction towards which the force is applied is known as the direction of the force. The S.I. unit of force is Newton.\n"
+      ]
+    },
+    {
+      "tag": "electric field",
+      "patterns": ["electric field","",""
+      ],
+      "responses": ["A region around a charged particle or object within which a force would be exerted on other charged particles or objects. An electric field is also described as the electric force per unit charge. E equals to F by Q , where, E is the electric field. F is a force. And Q is the charge."
+      ]
+    },
+    {
+      "tag": "polarization",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": ["","",""
+      ],
+      "responses": [""
+      ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+}
