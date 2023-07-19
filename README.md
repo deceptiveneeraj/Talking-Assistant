@@ -42,4 +42,4 @@ ERA 5.0 "Friday" is your ideal personal assistant, streamlining your digital wor
 
 ERA 5.0 is more than just a talking assistant; it's a powerful and versatile tool for simplifying your daily life. Its intuitive Python programming language ensures smooth interactions and efficient execution of tasks. With ERA 5.0 by your side, managing your digital world becomes a seamless experience. 
 
-In conclusion, ERA 5.0 is the ideal personal assistant, offering a comprehensive suite of functionalities to meet your everyday needs. Its integration of Chat GPT ensures a delightful and informative conversation, making ERA 5.0 a true asset for simplifying your life and staying informed
+In conclusion, ERA 5.0 is the ideal personal assistant, offering a comprehensive suite of functionalities to meet your everyday needs. Its integration of Chat GPT ensures a delightful and informative conversation, making ERA 5.0 a true asset for simplifying your life and staying informed.
