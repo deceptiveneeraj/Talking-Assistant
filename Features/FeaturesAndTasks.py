@@ -92,7 +92,11 @@ def whatsapp_grp(group_id, message):
         hour = int(takecommand())
         speak('Minutes')
         min = int(takecommand())
+<<<<<<< HEAD
         pywhatkit.sendwhatmsg('+916*************', msg, hour, min, 20)
+=======
+        pywhatkit.sendwhatmsg('+9162*********', msg, hour, min, 20)
+>>>>>>> ab65a28 (Update Code)
         speak('Whats app message send.')
 
     elif 'ritesh' in name:
@@ -103,7 +107,11 @@ def whatsapp_grp(group_id, message):
         hour = int(takecommand())
         speak('Minutes')
         min = int(takecommand())
+<<<<<<< HEAD
         pywhatkit.sendwhatmsg("+9***************", msg, hour, min, 20)
+=======
+        pywhatkit.sendwhatmsg("+918***********", msg, hour, min, 20)
+>>>>>>> ab65a28 (Update Code)
         speak('Whats app message send.')
 
     else:
@@ -127,15 +135,29 @@ def sendEmail(to, content):
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.ehlo()
         server.starttls()
+<<<<<<< HEAD
         server.login('neerajsolan1@gmail.com', 'kkj*************uwb iqez')
         server.sendmail('neerajsolank@gmail.com', to, content)
+=======
+        with open("C:\\Users\\neera\\PycharmProjects\\ADatabase\\API\\GmailPass.txt", "r") as password_file:
+            Password = password_file.read().strip()
+        server.login('neerajsolanki271@gmail.com', Password)
+        server.sendmail('neerajsolanki271@gmail.com', to, content)
+>>>>>>> ab65a28 (Update Code)
         server.close()
-    except:
+        speak('Email send successfully.')
+    except Exception as e:
+        print(e)
         speak('Try Again...')
 
 
 # Nasa
+<<<<<<< HEAD
 Api_Key = "0Mbokl75mT***************9plyKMyeB"
+=======
+API_KEY = open("C:\\Users\\neera\\PycharmProjects\\ADatabase\\API\\NasaNewsApi.txt", "r")
+Api_Key = API_KEY
+>>>>>>> ab65a28 (Update Code)
 def NasaNews(Date):
     try:
         speak('Extracting data from NASA')
@@ -211,14 +233,18 @@ def WeatherReport():
         # API_ID = "6bdc6*****************024944dddb8"
 
         BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
+<<<<<<< HEAD
         API_KEY = "6bdc*****************dddb8"
+=======
+        Api_Key = open("C:\\Users\\neera\\PycharmProjects\\ADatabase\\API\\WeatherApi.txt", "r").read().strip()
+>>>>>>> ab65a28 (Update Code)
         CITY = 'Dewas'
 
         def kelvin_celsius(kelvin):
             celcius = kelvin - 273.15
             return celcius
 
-        url = BASE_URL + "appid=" + API_KEY + "&q=" + CITY
+        url = BASE_URL + "appid=" + Api_Key + "&q=" + CITY
         response = requests.get(url).json()
 
 

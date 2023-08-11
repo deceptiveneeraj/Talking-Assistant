@@ -1,7 +1,7 @@
-import nltk
+import nltk                                        # pip install nltk
 from nltk.stem.porter import PorterStemmer
 from torch.utils.data import Dataset, DataLoader
-import torch.nn as nn
+import torch.nn as nn                              # pip install torch, pip install torchaudio
 import json
 import torch
 import numpy as np

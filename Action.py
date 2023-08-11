@@ -206,7 +206,11 @@ def TaskExe():
                 # API_ID = "6bdc6*************ddb8"
 
                 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
+<<<<<<< HEAD:FridayAd.py
                 API_KEY = "6bdc6**************ddb8"
+=======
+                API_KEY = open("C:\\Users\\neera\\PycharmProjects\\ADatabase\\API\\WeatherApi.txt", "r").read().strip()
+>>>>>>> ab65a28 (Update Code):Action.py
                 speak('Tell Me The City Name.')
                 CITY = takecommand().lower()
                 CITY = CITY.replace(' ', '')
@@ -277,7 +281,7 @@ def TaskExe():
             while True:
                 if alarmHour == datetime.datetime.now().hour and alarmMinute == datetime.datetime.now().minute:
                     print("Wake Up")
-                    playsound("C:\\Users\\neera\\PycharmProjects\\ERA\\SupermanRising.mp3")
+                    playsound("C:\\Users\\neera\\PycharmProjects\\ADatabase\\SupermanRising.mp3")
                     break
 
 
@@ -623,25 +627,41 @@ def TaskExe():
             query = query.replace("to", "")
             name = query
             if 'vinita' in name:
+<<<<<<< HEAD:FridayAd.py
                 num = "6************"
+=======
+                num = "6260******"
+>>>>>>> ab65a28 (Update Code):Action.py
                 speak(f"What's the message for {name}")
                 mess = takecommand()
                 FeaturesAndTasks.whatsapp_msg(num, mess)
                 break
             elif 'papa' in name:
+<<<<<<< HEAD:FridayAd.py
                 num = "7************9"
+=======
+                num = "7000******"
+>>>>>>> ab65a28 (Update Code):Action.py
                 speak(f"What's the message for {name}")
                 mess = takecommand()
                 FeaturesAndTasks.whatsapp_msg(num, mess)
                 break
             elif 'neeraj' in name:
+<<<<<<< HEAD:FridayAd.py
                 num = "************"
+=======
+                num = "7089******"
+>>>>>>> ab65a28 (Update Code):Action.py
                 speak(f"What's the message for {name}")
                 mess = takecommand()
                 FeaturesAndTasks.whatsapp_msg(num, mess)
                 break
             elif 'ritesh' in name:
+<<<<<<< HEAD:FridayAd.py
                 num = "88**********8"
+=======
+                num = "8817******"
+>>>>>>> ab65a28 (Update Code):Action.py
                 speak(f"What's the message for {name}")
                 mess = takecommand()
                 FeaturesAndTasks.whatsapp_msg(num, mess)
@@ -664,7 +684,11 @@ def TaskExe():
             try:
                 speak('What should i say.')
                 content = takecommand().lower()
+<<<<<<< HEAD:FridayAd.py
                 to = 'solanki@gmail.com'
+=======
+                to = 'solankineeraj@gmail.com'
+>>>>>>> ab65a28 (Update Code):Action.py
                 FeaturesAndTasks.sendEmail(to, content)
                 speak('Email Send')
                 break
@@ -678,7 +702,11 @@ def TaskExe():
             try:
                 speak('What should i say.')
                 content = takecommand().lower()
+<<<<<<< HEAD:FridayAd.py
                 to = 'vinitasola@gmail.com'
+=======
+                to = 'vinitasolanki@gmail.com'
+>>>>>>> ab65a28 (Update Code):Action.py
                 FeaturesAndTasks.sendEmail(to, content)
                 speak('Email Send')
                 break

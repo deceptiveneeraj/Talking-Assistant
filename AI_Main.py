@@ -5,7 +5,7 @@ from Body.Speak import Speak
 # from Features.ClapDetection import Tester
 # from Main import Main_Task_Execution
 import datetime
-from FridayAd import TaskExe
+from Action import TaskExe
 # from NN_ML_AI_NLP_DL.Main import Main_Task_Execution   # ...NN ML NLP AI DL
 
 Speak('Hey, I Am Friday 5.0, Your personal virtual assistant.')

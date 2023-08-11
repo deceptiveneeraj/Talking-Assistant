@@ -1,6 +1,6 @@
 import cv2
 from PIL import Image
-from pytesseract import pytesseract
+from pytesseract import pytesseract                     # pip install pytesseract
 import keyboard
 import time
 

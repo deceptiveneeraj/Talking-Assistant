@@ -1,12 +1,13 @@
 # Api Key
-fileopen = open("C:\\Users\\neera\\PycharmProjects\\AI Friday\\Data\\API.txt", "r")
+# fileopen = open("C:\\Users\\neera\\PycharmProjects\\AI Friday\\Data\\API.txt", "r")
+fileopen = open("C:\\Users\\neera\\PycharmProjects\\ADatabase\\API\\OpenApi.txt", "r")
 API = fileopen.read()
 fileopen.close()
 # print(API)
 
 # Importing
-import openai
-from dotenv import load_dotenv
+import openai                                       # pip install openai
+from dotenv import load_dotenv                      # pip install python-dotenv
 
 # Code
 openai.api_key = API
